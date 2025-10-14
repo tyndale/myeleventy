@@ -11,7 +11,7 @@ export default defineConfig({
   staticAssets: {
     paths: { "public/": "/" },
   },
-  ignores: ["README.md"],
+  ignores: ["README.md", "CHANGELOG.md"],
   customProperties: {
     properties: [
       {
