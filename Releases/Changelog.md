@@ -4,6 +4,12 @@ tags: [release]
 
 <!-- Use emojis from https://gitmoji.dev/ -->
 
+## Version 0.33.0
+
+**December 21, 2025**
+
+- ✨ **UI Improvements**: The panel (on the right side) is now a collapsible drawer on mobile devices for better usability. The theme switcher has been changed to a dropdown menu.
+
 ## Version 0.32.0
 
 **July 26, 2025**
