@@ -4,6 +4,12 @@ tags: [release]
 
 <!-- Use emojis from https://gitmoji.dev/ -->
 
+## Version 0.34.0
+
+**January 24, 2026**
+
+- ✨ **Custom Props Template**: Custom props now support a Markdown / Nunjucks template for more flexibility.
+
 ## Version 0.33.0
 
 **December 21, 2025**
