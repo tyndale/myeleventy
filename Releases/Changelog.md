@@ -4,6 +4,13 @@ tags: [release]
 
 <!-- Use emojis from https://gitmoji.dev/ -->
 
+## Version 0.34.1
+
+**January 27, 2026**
+
+- 💄 **Custom Props Styling**: Custom properties are now rendered with multiline formatting.
+- 🐛 **Firefox Styling**: Fixed link styling in custom properties for Firefox.
+
 ## Version 0.34.0
 
 **January 24, 2026**
