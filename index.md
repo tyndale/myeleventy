@@ -1,23 +1,12 @@
----
-navTitle: Home
-title: Eleventy Notes
-headline: Welcome to Eleventy Notes
-panel: false
-nextPage: "[[Getting started]]"
----
+<!-- /index.md -->
+# About Me
 
-Welcome to **Eleventy Notes**, an opinionated template for publishing your personal notes, documentation, or even your blog! Built with [Eleventy](https://11ty.dev/), the powerful static site generator, Eleventy Notes is packed with features you'll love.
+Hey there! I’m **Tyler K**, a North Burnaby teen who’s all about sustainability and community.
 
-With Eleventy Notes, you can:
+I started this library of free activities for families visiting grandparents because I believe small things (like a shared puzzle or game) can create big moments.
 
-- ✅ Create [[Wikilinks]] and backlinks to easily navigate your content
-- ✅ Organize your content with [[Tags]] for easy searching and filtering
-- ✅ Quickly find what you need with a [[Search|client-side search]]
-- ✅ Choose from two [[Themes]] and multiple color schemes to match your style
-- ✅ Customize your [[Sidebar]] with support for folders and subfolders
-- ✅ Enjoy a lightweight and fast experience, with minimal JavaScript
-- ... and much more!
+My goal is to bring generations together and cut down on waste by encouraging borrowing instead of buying.
 
-Whether you're a blogger, developer, or just someone who loves to write, Eleventy Notes has everything you need to publish your content. So what are you waiting for? Get started today by reading our [[Getting started]] guide and start sharing your thoughts with the world!
+Explore "Activities" to see what’s here, and keep checking back as the library grows!
 
-Built with ❤️ by [Sandro Roth](https://sandroroth.com/) • [Third-party license](./third-party-license.txt)
+![grandfather](./grandpa.jpg)
