@@ -9,4 +9,4 @@ My goal is to bring generations together and cut down on waste by encouraging bo
 
 Explore "Activities" to see what’s here, and keep checking back as the library grows!
 
-![grandfather](./grandpa.jpg)
+![Me](./Face.jpg)
