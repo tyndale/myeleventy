@@ -1,1 +1,3 @@
 I built a PM2.5 air quality sensor using basic sensor to measure harmful particles from cooking. Data was sent to a opensource database where it recorded the information.  It is helpful because it alerted my family when PM2.5 particle counts are high so they know they need to open windows or turn on the fan. It also helped to know what type of cooking generates PM2.5 particles.
+
+![Air](./Air_Quality.jpg)
