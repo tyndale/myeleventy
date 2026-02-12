@@ -1,4 +1,4 @@
-After my grandfather passed away, I wanted to help other teens build meaningful connections with their grandparents.
+After my Hal-a-beo-ji (grandfather) passed away, I wanted to help other teens build meaningful connections with their grandparents.
 
 I applied for and received a $500 Youth Connections grant to create an intergenerational activity library. I researched and purchased activities designed to encourage shared experiences and conversation.
 
