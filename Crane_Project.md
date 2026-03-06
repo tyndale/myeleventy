@@ -2,6 +2,4 @@ This a project involves building a 3D-printed model crane to show how real const
 
 ![Crane](./Crane_Project.jpg)
 
-Youtube Demo
-![Youtube_Demo](https://www.youtube.com/watch?v=pyVLrtRwvkE)
-
+<a href="https://www.youtube.com/watch?v=pyVLrtRwvkE" target="_blank" rel="noopener noreferrer">Youtube Demonstration</a>
